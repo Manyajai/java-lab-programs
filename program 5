@@ -99,8 +99,8 @@ System.out.println("Enter customer name:");
         CurAccount currentAccount = new CurAccount(name1, accountnumber1);
 
         while (true) {
-            System.out.println("JIYA GUPTA");
-            System.out.println("1BM23CS127");
+            System.out.println("manya jain");
+            System.out.println("1BM23CS371");
             System.out.println("\n-----MENU-----");
             System.out.println("1. Deposit\n2. Withdraw\n3. Compute Interest for Savings Account\n4. Display Account Details\n5. Exit");
             System.out.print("Enter your choice: ");
